@@ -14,4 +14,3 @@ ingredients.map((elem) => {
   li.textContent = elem;
   list.append(li);
 });
-console.log(list);
